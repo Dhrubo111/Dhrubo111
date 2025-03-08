@@ -11,7 +11,7 @@
 <h2 align="center">🚀 View My Live Portfolio</h2>
 
 <div align="center">
-  <a href="https://my-portfolio-3gl5r6fb6-dhrubo111s-projects.vercel.app/" target="_blank">
+  <a href="https://my-portfolio-beta-lime-93.vercel.app/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-Visit%20Now-2C3E50?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
   </a>
 </div>
