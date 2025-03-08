@@ -8,6 +8,18 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=2F8D46&center=true&vCenter=true&width=500&lines=Remote+Junior+Engineer;Full-Stack+Developer;Python+%7C+JavaScript+%7C+Java+%7C+Flutter;UI/UX+Designer+%7C+Project+Manager;Linux+Expert+%7C+AI+Enthusiast;Always+learning+new+technologies" alt="Typing SVG" />
 </div>
 
+<h2 align="center">🚀 View My Live Portfolio</h2>
+
+<div align="center">
+  <a href="https://my-portfolio-3gl5r6fb6-dhrubo111s-projects.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-Visit%20Now-2C3E50?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
+  </a>
+</div>
+
+<div align="center">
+  <p><i>Explore my projects, skills, and professional journey in my interactive portfolio website.</i></p>
+</div>
+
 <p align="center">
   <a href="https://github.com/Dhrubo111?tab=followers">
     <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/Dhrubo111?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
